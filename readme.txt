@@ -7,6 +7,7 @@
 77777777
 88888888
 99999999
+aaaa--stash
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
